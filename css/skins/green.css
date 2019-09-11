@@ -1,0 +1,87 @@
+/* ###################################################
+    File Name: Skinks color styles
+	Template Name: Press
+	Created By: Shah Zobayer Ahmed
+	http://themencoder.com
+ #####################################################*/
+
+/* --- Backgrounds  --------------------- */
+::-moz-selection {
+  background-color: #16a085;
+}
+::-webkit-selection {
+  background-color: #16a085;
+}
+::-o-selection {
+  background-color: #16a085;
+}
+::-khtml-selection {
+  background-color: #16a085;
+}
+::-ms-selection {
+  background-color: #16a085;
+}
+::selection {
+  background-color: #16a085;
+}
+
+/* placeholder */
+::-webkit-input-placeholder {
+    color: #16a085 !important;
+}
+:-moz-placeholder {
+    /* Firefox 18- */
+    color: #16a085 !important;
+}
+::-moz-placeholder {
+    /* Firefox 19+ */
+    color: #16a085 !important;
+}
+:-ms-input-placeholder {
+    color: #16a085 !important;
+}
+/* background */
+.about-me-box a,.label,.bar,.bar.color2,.bar.color3,.bar.color4,.bar.color4,.design-box i,.work-box:hover,.working-item i,.menu-list .is-checked
+,.social-share-section a,.milestone-counter i,.section-title h2::before,.customNavigation a i:hover,.input-group-addon,.form-submit,.mCS-minimal.mCSB_scrollTools .mCSB_dragger .mCSB_dragger_bar
+,.mCS-minimal.mCSB_scrollTools .mCSB_dragger:active .mCSB_dragger_bar,.mCS-minimal.mCSB_scrollTools .mCSB_dragger.mCSB_dragger_onDrag .mCSB_dragger_bar,.mCS-minimal.mCSB_scrollTools .mCSB_dragger .mCSB_dragger_bar,.about-me-box h2:before,
+.main-center-item span,.skill-box h2:before,.nav,.filter_menu .active
+
+{
+    background: #16a085
+}
+
+.menu-btn{
+    background:#16a085 url(../../images/menu-btn.png) no-repeat scroll 6px 9px;
+}
+
+/* color */
+.nav li.active a,.nav li a:hover,.profile-caption h1 span,.section-title h2,.about-me-box h2,.work-section .work-box .fa,.social-share-section a:hover,
+.skill-box h2,.footer-section p a,.customNavigation a i,.nav li a.active
+
+{
+    color:#16a085 !important;
+}
+
+
+ /* border 1px solid */
+.social-share-section a,.social-share-section a:hover,.customNavigation a i,.element-item a:hover:after
+{
+ border: 1px solid #16a085
+}
+
+/*
+ *switcher style
+ */
+.switcherContent{
+    border-bottom: 1px solid #16a085
+}
+.switcher .switcherContents header,.switcher .switcherShowHide,.tempLayout ul .active-layout,.tempLayout ul li:hover{
+    background: #16a085;
+}
+.tempLayout ul li{
+    border: 1px solid  #16a085
+}
+.nicescroll-cursors {
+    background: #16a085 !important;
+    border: none !important;
+}
